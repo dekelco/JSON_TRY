@@ -28,20 +28,6 @@
       "content": "https://i.imgur.com/5Ik7XpV.png"
     },
    {
-      "title": "Facebook Post Item",
-      "description": "This is a facebook post item",
-      "type": "facebook",
-      "thumbnail_image": "https://i.imgur.com/qANcOxB.jpg",
-      "content": "https://i.imgur.com/qANcOxB.jpg"
-    },
-   {
-      "title": "URL Item",
-      "description": "This is a URL item",
-      "type": "URL",
-      "thumbnail_image": "https://i.imgur.com/tkJe3J1.jpg",
-      "content": "http://www.cnn.com"
-    },
-   {
       "title": "PDF Item",
       "description": "This is a PDF item",
       "type": "pdf",
