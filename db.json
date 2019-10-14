@@ -1,5 +1,5 @@
 [
-  - {
+   {
       title: "Picture Item",
       description: "This is an image item",
       type: "image",
@@ -7,7 +7,7 @@
       store: "google",
       content: "https://i.imgur.com/cA7AXXh.jpg"
     },
-  - {
+   {
       title: "Movie Item",
       description: "This is an image item",
       type: "video",
@@ -23,7 +23,7 @@
       store: "google",
       content: "https://i.imgur.com/gXIDw4j.jpg"
     },
-  - {
+   {
       title: "Text Item",
       description: "This is a text item",
       type: "text",
@@ -31,7 +31,7 @@
       store: "amazon",
       content: "https://i.imgur.com/5Ik7XpV.png"
     },
-  - {
+   {
       title: "Facebook Post Item",
       description: "This is a facebook post item",
       type: "facebook",
@@ -39,7 +39,7 @@
       store: "dropbox",
       content: "https://i.imgur.com/qANcOxB.jpg"
     },
-  - {
+   {
       title: "URL Item",
       description: "This is a URL item",
       type: "URL",
@@ -47,7 +47,7 @@
       store: "google",
       content: "http://www.cnn.com"
     },
-  - {
+   {
       title: "PDF Item",
       description: "This is a PDF item",
       type: "pdf",
