@@ -1,0 +1,58 @@
+[
+  - {
+      title: "Picture Item",
+      description: "This is an image item",
+      type: "image",
+      thumbnail_image: "https://i.imgur.com/cA7AXXh.jpg",
+      store: "google",
+      content: "https://i.imgur.com/cA7AXXh.jpg"
+    },
+  - {
+      title: "Movie Item",
+      description: "This is an image item",
+      type: "video",
+      thumbnail_image: "https://i.imgur.com/L68FtMA.jpg",
+      store: "google",
+      content: "https://i.imgur.com/L68FtMA.jpg"
+    },
+  - {
+      title: "Audio Item",
+      description: "This is an audio file item",
+      type: "audio",
+      thumbnail_image: "https://i.imgur.com/gXIDw4j.jpg",
+      store: "google",
+      content: "https://i.imgur.com/gXIDw4j.jpg"
+    },
+  - {
+      title: "Text Item",
+      description: "This is a text item",
+      type: "text",
+      thumbnail_image: "https://i.imgur.com/5Ik7XpV.png",
+      store: "amazon",
+      content: "https://i.imgur.com/5Ik7XpV.png"
+    },
+  - {
+      title: "Facebook Post Item",
+      description: "This is a facebook post item",
+      type: "facebook",
+      thumbnail_image: "https://i.imgur.com/qANcOxB.jpg",
+      store: "dropbox",
+      content: "https://i.imgur.com/qANcOxB.jpg"
+    },
+  - {
+      title: "URL Item",
+      description: "This is a URL item",
+      type: "URL",
+      thumbnail_image: "https://i.imgur.com/tkJe3J1.jpg",
+      store: "google",
+      content: "http://www.cnn.com"
+    },
+  - {
+      title: "PDF Item",
+      description: "This is a PDF item",
+      type: "pdf",
+      thumbnail_image: "https://i.imgur.com/5LCEpuz.jpg",
+      store: "google",
+      content: "https://i.imgur.com/5LCEpuz.jpg"
+    }
+]
